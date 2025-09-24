@@ -6,4 +6,9 @@
 
 ###### K I'm done... SLEEEP!!!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img alt="Image of Ramen" src=(https://w0.peakpx.com/wallpaper/609/560/HD-wallpaper-bowl-of-ramen-hot-noodle-food-bowl.jpg) width=30>
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
